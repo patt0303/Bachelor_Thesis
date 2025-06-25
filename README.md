@@ -1,4 +1,4 @@
-# Feature engineering cost of production
+# Feature engineering the cost of production
 A case study in the automotive parts manufacturing industry to enhance the performance of the sales forecasting models using feature engineering techniques targeting formula of the cost of production
 
 ## Project description
