@@ -7,8 +7,8 @@ This study will examine the effects of feature engineering targeting an external
 ## Research question
 To what extent does feature engineering regarding the formula of production costs influence the performance of sales forecasting models in the automotive parts manufacturing industry?
 
-## Methodology
-
+## Approach
+![alt text](pipeline.png "Workflow of chosen methodology for this project")
 
 ## Metrics
 * Mean Absolute Pecentage Error (MAPE)
