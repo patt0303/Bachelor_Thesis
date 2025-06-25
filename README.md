@@ -19,3 +19,17 @@ To what extent does feature engineering regarding the formula of production cost
 * Main findings:
   1.  Different feature engineering techniques regarding the cost of production formula do not have a significant impact on the performance of the sales predictive model.
   2.  However, feature engineering is still a good approach to improve the accuracy rate of the predictive model.
+
+## Packages installation
+To run this project:
+```python
+!pip install pmdarima optuna statsmodels
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+from statsmodels.tsa.arima.model import ARIMA
+from statsmodels.tsa.stattools import adfuller
+from pmdarima import auto_arima
+import optuna
+```
