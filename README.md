@@ -1,4 +1,4 @@
-# Feature engineering the formula of the cost of production
+# Feature engineering for the formula of the cost of production
 An analysis of the case study in the automotive parts manufacturing industry to enhance the performance of the sales forecasting models.
 
 ## Project description
